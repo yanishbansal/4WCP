@@ -1,0 +1,21 @@
+.box{
+   align-content: center;
+}
+.left{
+    width:60%;
+  background-color: antiquewhite;
+  float:left; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ height: 5rem;
+}
+.right{
+    width:40%;
+    background-color: aqua;
+    float:left;
+    height: 5rem;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
